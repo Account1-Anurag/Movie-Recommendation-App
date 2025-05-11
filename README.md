@@ -64,7 +64,7 @@ If you have any feedback, ideas, or suggestions — feel free to connect with me
 
 ## 🔗 Links
 
-- 🌐 [Live Demo](#) _(Add if hosted)_
+- 🌐 [Live Demo](https://anuragk.me/Movie-Recommendation-App/) _(Add if hosted)_
 - 🧑‍💻 [Developer Portfolio](https://anuragk.me)
 
 ---
