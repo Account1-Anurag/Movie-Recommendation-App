@@ -52,7 +52,6 @@ A responsive and interactive movie recommendation web app that helps users disco
 
 - [ ] Add sorting/filtering by rating or release year
 - [ ] Improve UI with animations or transitions
-- [ ] Add dark mode toggle
 
 ---
 
@@ -64,7 +63,7 @@ If you have any feedback, ideas, or suggestions — feel free to connect with me
 
 ## 🔗 Links
 
-- 🌐 [Live Demo](https://anuragk.me/Movie-Recommendation-App/) _(Add if hosted)_
+- 🌐 [Live Demo](https://anuragk.me/Movie-Recommendation-App/) 
 - 🧑‍💻 [Developer Portfolio](https://anuragk.me)
 
 ---
